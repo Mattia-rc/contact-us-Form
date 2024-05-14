@@ -99,3 +99,129 @@
   box-shadow: 0px 10px 12px -11px #F243A9;
 
 }
+
+@media (max-width:1439px){
+  .container-first {
+    background: linear-gradient(90.46deg, #62B2FF 0.38%, #6E9AFF 0.38%, #63B0FF 0.39%, #7985FF 107.63%, #6D9CFF 107.63%);
+    width: 1240px;
+    height: 1200px;
+    top: 296px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .rectangle{
+padding-left: 25%;
+}
+}
+
+@media (max-width:1235px){
+  .container-first {
+    background: linear-gradient(90.46deg, #62B2FF 0.38%, #6E9AFF 0.38%, #63B0FF 0.39%, #7985FF 107.63%, #6D9CFF 107.63%);
+    width: 1040px;
+    height: 1000px;
+    top: 296px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .rectangle{
+  padding-left: 22%;
+}
+@media (max-width:1039px){
+  .container-first {
+    background: linear-gradient(90.46deg, #62B2FF 0.38%, #6E9AFF 0.38%, #63B0FF 0.39%, #7985FF 107.63%, #6D9CFF 107.63%);
+    width: 840px;
+    height: 1000px;
+    top: 296px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .rectangle{
+  padding-left: 14%;
+}
+}
+@media (max-width:839px){
+  .container-first {
+    background: linear-gradient(90.46deg, #62B2FF 0.38%, #6E9AFF 0.38%, #63B0FF 0.39%, #7985FF 107.63%, #6D9CFF 107.63%);
+    width: 640px;
+    height: 1000px;
+    top: 296px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .rectangle{
+  padding-left: 14%;
+}
+
+.div-class-edit {
+  width: 407px;
+  height: 805px;
+  background-color: #FFFF;
+  box-shadow: 0px 6px 6px 0px #0000001A;
+  border-radius: 10px;
+}
+.div-contact {
+  display: flex;
+  justify-content: center;
+}
+.row-css {
+  width: 300px;
+  height: 50px;
+  padding-left: 4%;
+  font-family: Mulish;
+  font-weight: 400;
+  font-size: 16px;
+  color: #242E4C;
+}
+.col-class {
+  padding-top: 6%;
+  display: flex;
+  justify-content: center;
+}
+}
+@media (max-width:635px){
+  .container-first {
+    background: linear-gradient(90.46deg, #62B2FF 0.38%, #6E9AFF 0.38%, #63B0FF 0.39%, #7985FF 107.63%, #6D9CFF 107.63%);
+    width: 440px;
+    height: 1000px;
+    top: 296px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .rectangle{
+  padding-left: 4%;
+}
+
+.div-class-edit {
+  width: 407px;
+  height: 805px;
+  background-color: #FFFF;
+  box-shadow: 0px 6px 6px 0px #0000001A;
+  border-radius: 10px;
+}
+.div-contact {
+  display: flex;
+  justify-content: center;
+}
+.row-css {
+  width: 300px;
+  height: 50px;
+  padding-left: 4%;
+  font-family: Mulish;
+  font-weight: 400;
+  font-size: 16px;
+  color: #242E4C;
+}
+.col-class {
+  padding-top: 6%;
+  display: flex;
+  justify-content: center;
+}
+}
+
+
+}
